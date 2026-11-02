@@ -1,6 +1,6 @@
-# B*-Tree Index Performance
+# DB_PERF – Database Performance
 
-Final project for the course Database Performance 
+This repository contains final project for the Database Performance course at Poznan University of Technology.
 
 The project is focused on experimentally evaluating the performance of B-tree indexes in PostgreSQL, including their impact on query execution time, data modification operations, disk space consumption, and index creation time.
 
