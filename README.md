@@ -2,7 +2,7 @@
 
 This repository contains final project for the Database Performance course at Poznan University of Technology.
 
-Inside [PostgreSQL_ASSIGNMENTS-1.pdf](Inside%20PostgreSQL_ASSIGNMENTS-1.pdf)  there are instructions for the assignment.
+Inside [PostgreSQL_ASSIGNMENTS-1.pdf](PostgreSQL_ASSIGNMENTS-1.pdf)  there are instructions for the assignment.
 
 Detail report of the assignment is here:  [btree_index_report_Budimir.pdf](btree_index_report_Budimir.pdf).
 
