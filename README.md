@@ -1,6 +1,8 @@
 # B*-Tree Index Performance
 
-An individual academic project focused on experimentally evaluating the performance of B-tree indexes in PostgreSQL, including their impact on query execution time, data modification operations, disk space consumption, and index creation time.
+Final project for the course Database Performance 
+
+The project is focused on experimentally evaluating the performance of B-tree indexes in PostgreSQL, including their impact on query execution time, data modification operations, disk space consumption, and index creation time.
 
 ## Project Overview
 
